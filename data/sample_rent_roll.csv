@@ -1,0 +1,9 @@
+unit_id,tenant_name,unit_type,square_feet,monthly_rent,annual_rent,lease_start,lease_end,annual_escalation,status
+R-001,Café Delancey LLC,Retail,1200,7000,84000,2022-02-01,2027-01-31,0.030,Occupied
+R-002,LES Boutique Inc.,Retail,800,4667,56004,2021-06-01,2026-05-31,0.025,Occupied
+R-003,Pharmacare Plus,Retail,1500,9375,112500,2023-03-01,2033-02-28,0.020,Occupied
+O-101,Fintech Partners LP,Office,2500,10417,125004,2023-01-01,2028-12-31,0.030,Occupied
+O-102,Creative Studio NYC,Office,1800,7200,86400,2020-09-01,2025-08-31,0.020,Occupied
+O-103,Meridian Advisory Group,Office,2200,9350,112200,2022-07-01,2027-06-30,0.030,Occupied
+O-104,,Office,1600,0,0,2024-01-01,2024-01-01,0.030,Vacant
+S-001,SelfStore Manhattan,Storage,400,600,7200,2023-06-01,2026-05-31,0.030,Occupied
