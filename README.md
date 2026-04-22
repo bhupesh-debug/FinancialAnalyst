@@ -7,7 +7,7 @@
 
 ## 🎯 Purpose
 
-This repository is a **live portfolio + execution system** built for the **Financial Analyst, Capital Markets** role at Cali Capital (NYC). It demonstrates CRE-specific deal execution capability — not theory, not coursework — real broker-level output.
+This repository is a **live portfolio + execution system** built for the **Financial Analyst, Capital Markets** role at NYC. It demonstrates CRE-specific deal execution capability — not theory, not coursework — real broker-level output.
 
 ---
 
